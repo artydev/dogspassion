@@ -21,6 +21,11 @@
 			"image": "https://cdn.jsdelivr.net/gh/artydev/dogspassion@93c32ef135b6ee596713f96eee461cbd76af9638/data/images/logo.png",
 			"name": "Logo",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/artydev/dogspassion@58c07972b3bba5c86ff3c2536dff2a133880b0ea/data/images/logo.png",
+			"name": "Logo",
+			"@type": "Painting"
 		}
 	],
 	"person": [
