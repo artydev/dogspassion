@@ -8,7 +8,8 @@
 			"@type": "Painting"
 		},
 		{
-			"name": "Index",
+			"image": "https://cdn.jsdelivr.net/gh/artydev/dogspassion@879c245debf0fbb6c024a446c33fa5374739792a/data/images/giphy.gif",
+			"name": "Giphy",
 			"@type": "Painting"
 		}
 	]
