@@ -16,6 +16,11 @@
 			"image": "https://cdn.jsdelivr.net/gh/artydev/dogspassion@7134a1f92a73306d6e7cf78ff59fd9c20afa70f5/data/images/plant.jpg",
 			"name": "Plant",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/artydev/dogspassion@93c32ef135b6ee596713f96eee461cbd76af9638/data/images/logo.png",
+			"name": "Logo",
+			"@type": "Painting"
 		}
 	],
 	"person": [
