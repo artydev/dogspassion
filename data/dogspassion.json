@@ -11,6 +11,11 @@
 			"image": "https://cdn.jsdelivr.net/gh/artydev/dogspassion@879c245debf0fbb6c024a446c33fa5374739792a/data/images/giphy.gif",
 			"name": "Giphy",
 			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/artydev/dogspassion@7134a1f92a73306d6e7cf78ff59fd9c20afa70f5/data/images/plant.jpg",
+			"name": "Plant",
+			"@type": "Painting"
 		}
 	]
 }
