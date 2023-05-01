@@ -17,5 +17,19 @@
 			"name": "Plant",
 			"@type": "Painting"
 		}
+	],
+	"person": [
+		{
+			"firstName": "Salvatore",
+			"lastName": "DI DIO"
+		},
+		{
+			"firstName": "Catherine",
+			"lastName": "DI DIO"
+		},
+		{
+			"firstName": "Raphaël",
+			"lastName": "DI DIO"
+		}
 	]
 }
